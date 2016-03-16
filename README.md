@@ -1,4 +1,4 @@
-![ADC-DAC-Mirror](https://drive.google.com/file/d/0BwnXg_YwzNQ6bzAwNmxfWG5ZeFU/view?usp=sharing)
+![ADC-DAC-Mirror](ADC-DAC-Mirror.png)
 
 # About
 
